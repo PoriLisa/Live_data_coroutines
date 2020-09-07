@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Livedata coroutines</string>
+    <string name="country_id">user</string>
+    <string name="name">name</string>
 </resources>
